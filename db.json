@@ -1,0 +1,66 @@
+{
+  "restaurants": [
+    {
+      "name": "KFC",
+      "email": "kfc@test.com",
+      "adress": "bd. Moscova 2",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Vasabi",
+      "adress": "bd. Moscova 1",
+      "email": "vasabi@test.com"
+    },
+    {
+      "name": "Cehov",
+      "email": "cehov@test.com",
+      "adress": "renasterii 2",
+      "id": 3
+    },
+    {
+      "name": "TorroBurgers",
+      "email": "torroB@test.com",
+      "adress": "bd. Moscova 10",
+      "id": 4
+    },
+    {
+      "name": "mcDonalds",
+      "email": "mcdonald@test.com",
+      "adress": "bd. Dacia 1",
+      "id": 7
+    },
+    {
+      "name": "Andy's Pizza",
+      "email": "andyspizza@test.com",
+      "adress": "str. Puskin 41",
+      "id": 8
+    }
+  ],
+  "users": [
+    {
+      "name": "Irina Oala",
+      "email": "irina.oala@mail.ru",
+      "password": "test",
+      "id": 1
+    },
+    {
+      "name": "peter",
+      "email": "peter@tewst.com",
+      "password": "test",
+      "id": 2
+    },
+    {
+      "name": "mihai",
+      "email": "popov@gmail.com",
+      "password": "test",
+      "id": 3
+    },
+    {
+      "name": "ana",
+      "email": "ana@test.com",
+      "password": "test",
+      "id": 4
+    }
+  ]
+}
